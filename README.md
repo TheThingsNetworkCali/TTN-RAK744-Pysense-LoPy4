@@ -34,14 +34,8 @@ sudo adduser $USER dialout
 ![Atom installed](docs/images/atom_installed.png)
 
 ### First Script on LoPy4 + Pysense
-- Connect LoPy4 to Pysense board, and plug it to your computer with micro USB cable as image above:
-  ![LoPy4 and Pysense conected to micro USB cable](docs/images/lopy4_pysense.jpg)
-
-- You will see ">>>" in your Pymakr terminal
+- Connect LoPy4 to Pysense board, and plug it to your computer with micro USB cable as image above, you will see ">>>" in your Pymakr terminal:
   ![Pymkr terminal](docs/images/pymakr_terminal.png)
 
-- Write in terminal a script that turn on led with an custom color
+- Write in terminal a script that turn on led with an custom color, so LoPy4 rgb led will turn on:
   ![Pymkr terminal led](docs/images/pymakr_terminal_led.png)
-
-- LoPy4 rgb led will turn on
-  ![Pymkr terminal led](docs/images/pysense_lopy4_led_on.jpg)
